@@ -1,0 +1,151 @@
+session_id,user_id,user_tier,platform,attachment_type,has_attachment,message_count,user_message_count,assistant_message_count,interaction_complexity,language,primary_topic,user_intent,user_goal,task_outcome,abandonment,follow_up_needed,_classification_index
+1776081360056,e50834bde19af762,free,ios,none,False,4,2,2,multi_turn,Turkish,health_wellness,information_seeking,Aspirin usage safety,completed,False,False,140
+1776082380029,019fc2d0d87df5c5,yearly,desktop,spreadsheet,True,8,4,4,multi_turn,Turkish,document_analysis,analysis_extraction,Analyze employee satisfaction survey,completed,False,False,141
+1776108120000,425f66e29b9ede0a,yearly,web,spreadsheet,True,8,4,4,multi_turn,Turkish,document_analysis,analysis_extraction,Analyze employee satisfaction survey,completed,False,False,142
+1776132480092,10693859dc0b8600,free,android,none,False,6,3,3,multi_turn,Turkish,learning_self_improvement,advice_guidance,Overcome workout inactivity,completed,False,False,143
+1776137040071,aa4df990f6d2d237,free,ios,none,False,2,1,1,simple,Turkish,chitchat,information_seeking,Complain about bot speed,completed,False,False,144
+1776140460123,574e569eda59a61d,yearly,android,none,False,2,1,1,simple,Spanish,factual_qa,information_seeking,Who wrote Don Quixote,completed,False,False,145
+1776162360100,a0bfaf7906a96dc6,free,desktop,none,False,8,4,4,multi_turn,English,learning_self_improvement,planning_recommendations,Start learning guitar,completed,False,False,146
+1776186540034,c3fb228ca7bd15e1,free,desktop,docx,True,6,3,3,multi_turn,English,career_workplace,editing_rewriting,Make meeting minutes concise,completed,False,False,147
+1776205020045,63a8c66078d4d27f,weekly,web,none,False,4,2,2,multi_turn,Turkish,mental_wellbeing,advice_guidance,Cope with acute insomnia,completed,False,False,148
+1776222960009,b4287946f1c33b43,free,web,none,False,6,3,3,multi_turn,Turkish,learning_self_improvement,planning_recommendations,Improve English rapidly,completed,False,False,149
+1774582920122,f9936e5274a0bc3a,yearly,web,none,False,6,3,3,multi_turn,Turkish,learning_self_improvement,planning_recommendations,Learn Turkish C1 level,completed,False,False,100
+1774620840082,63a8c66078d4d27f,weekly,web,none,False,2,1,1,simple,Turkish,chitchat,information_seeking,Forgot question,completed,False,False,101
+1774655820135,89a89b3de31dc205,weekly,web,none,False,10,5,5,deep_work,Turkish,career_workplace,decision_support,Career switch at 40,completed,False,False,102
+1774678620094,199c213d13a70fa7,free,android,none,False,2,1,1,simple,Turkish,chitchat,information_seeking,Empty input test,completed,False,False,103
+1774698840062,be94c33ac6c410f5,yearly,ios,none,False,4,2,2,multi_turn,Russian,coding_tech,planning_recommendations,Laptop for programming and ML,completed,False,False,104
+1774747080144,640e2b4c88a87f08,yearly,android,none,False,6,3,3,multi_turn,Turkish,coding_tech,decision_support,Evaluate Google Pixel 9,completed,False,False,105
+1774845420052,20a3a693aa8d40a1,weekly,android,none,False,10,5,5,deep_work,Turkish,coding_tech,learning_explanation,Understand transformer architecture,completed,False,False,106
+1774876020063,a08707176f73da3e,yearly,android,none,False,4,2,2,multi_turn,Turkish,career_workplace,planning_recommendations,Prepare presentation in 3 hours,completed,False,False,107
+1774881240086,019fc2d0d87df5c5,yearly,android,none,False,4,2,2,multi_turn,English,factual_qa,information_seeking,Compare Sun size to Earth,completed,False,False,108
+1774889700084,66bdc10cb5a60be8,free,ios,none,False,6,3,3,multi_turn,Turkish,finance_legal,advice_guidance,Tips for saving money,completed,False,False,109
+1774911360010,4988abb1ef875509,yearly,android,none,False,6,3,3,multi_turn,English,career_workplace,planning_recommendations,Plan overwhelmed week,completed,False,False,110
+1774999380083,10693859dc0b8600,free,android,none,False,10,5,5,deep_work,Turkish,coding_tech,information_seeking,Quantum computing adoption timeline,completed,False,False,111
+1775105460114,c940e66a200d9157,yearly,web,none,False,6,3,3,multi_turn,Turkish,parenting_family,advice_guidance,Child making friends at school,completed,False,False,112
+1775115060148,199c213d13a70fa7,free,ios,none,False,4,2,2,multi_turn,Turkish,relationships_social,advice_guidance,Not invited to friend's wedding,completed,False,False,113
+1775118000019,cee90fe483a57631,yearly,android,none,False,6,3,3,multi_turn,English,career_workplace,advice_guidance,Handle toxic coworker taking credit,completed,False,False,114
+1775187300037,f67ee15e2e77c1b6,yearly,ios,txt,True,6,3,3,multi_turn,Turkish,document_analysis,analysis_extraction,Find errors in log file,completed,False,False,115
+1775188920054,f9936e5274a0bc3a,yearly,web,none,False,10,5,5,deep_work,Turkish,health_wellness,advice_guidance,Vegan B12 deficiency guidance,completed,False,False,116
+1775194620127,f2c2c14b612e5f80,free,web,spreadsheet,True,4,2,2,multi_turn,English,document_analysis,analysis_extraction,Find top customers from sheet,completed,False,False,117
+1775203620078,5c442ef0ef66311e,yearly,ios,image,True,6,3,3,multi_turn,English,image_editing,editing_rewriting,Turn dog into superhero,completed,False,False,118
+1775290320076,f912ef80169603a8,free,android,none,False,8,4,4,multi_turn,Turkish,mental_wellbeing,advice_guidance,Daily mental health tracking,completed,False,False,119
+1772365560137,7c59256e0c3bca98,free,web,none,False,2,1,1,simple,Turkish,factual_qa,information_seeking,Türkiye'nin başkentini öğrenmek,completed,False,False,0
+1772421780149,574e569eda59a61d,yearly,web,none,False,4,2,2,multi_turn,English,factual_qa,planning_recommendations,Quick dinner idea,completed,False,False,1
+1772471160058,ac6ff2fe6b8ad027,weekly,web,none,False,6,3,3,multi_turn,Turkish,travel_recommendations,planning_recommendations,Düşük bütçeli tatil önerisi,completed,False,False,2
+1772481360031,84990ceb4a0499f5,free,web,none,False,6,3,3,multi_turn,English,learning_self_improvement,advice_guidance,Improve public speaking skills,completed,False,False,3
+1772509320128,9ff3033c3f83fb18,weekly,ios,image,True,8,4,4,multi_turn,Turkish,image_editing,creation_generation,Doktor kıyafetli profil fotoğrafı,completed,False,False,4
+1772514300008,1d478081f62180e2,free,web,spreadsheet,True,6,3,3,multi_turn,English,document_analysis,analysis_extraction,Clean messy spreadsheet export,completed,False,False,5
+1772518440051,bd9bb4efc0e90aec,free,desktop,none,False,6,3,3,multi_turn,Turkish,health_wellness,information_seeking,Hamilelikte kahve tüketimi,completed,False,False,6
+1772525640046,15fa4d44168ffea5,free,web,spreadsheet,True,5,3,2,multi_turn,Turkish,document_analysis,analysis_extraction,Tabloyu temizleme ve düzenleme,partially_completed,False,True,7
+1772530920050,895d878ad91e2cf9,yearly,web,none,False,14,7,7,deep_work,Turkish,career_workplace,planning_recommendations,1 haftada tez tamamlama yardımı,completed,False,False,8
+1772533320096,f912ef80169603a8,free,android,none,False,4,2,2,multi_turn,Turkish,finance_legal,information_seeking,Kira kontratı ihbar süresi yasallığı,completed,False,False,9
+1772556420110,a508c437225613e4,weekly,desktop,none,False,6,3,3,multi_turn,English,other,information_seeking,Understand cat knocking items,completed,False,False,10
+1772562600113,f912ef80169603a8,free,desktop,none,False,4,2,2,multi_turn,English,coding_tech,learning_explanation,Explain reinforcement learning simply,completed,False,False,11
+1772563680048,2cd0a8a1345f8feb,free,desktop,none,False,6,3,3,multi_turn,Turkish,learning_self_improvement,advice_guidance,Daha fazla kitap okuma alışkanlığı,completed,False,False,12
+1772596680097,ed03da93e95d403c,free,web,none,False,14,7,7,deep_work,Turkish,career_workplace,advice_guidance,Startup fikri için eş kurucu bulma,completed,False,False,13
+1772625300027,425f66e29b9ede0a,yearly,android,none,False,2,1,1,simple,English,other,creation_generation,Write a short haiku about deadlines,completed,False,False,14
+1772671080024,199c213d13a70fa7,free,web,none,False,6,3,3,multi_turn,Turkish,relationships_social,information_seeking,Aynı tip insanlara aşık olma nedeni,completed,False,False,15
+1772706480139,895d878ad91e2cf9,yearly,desktop,none,False,6,3,3,multi_turn,English,coding_tech,advice_guidance,Learn to code at 38 for automation,completed,False,False,16
+1772758620033,847afd53691789ee,yearly,desktop,pdf,True,6,3,3,multi_turn,English,document_analysis,analysis_extraction,Summarize board deck PDF,completed,False,False,17
+1772783640134,199c213d13a70fa7,free,desktop,none,False,6,3,3,multi_turn,Turkish,learning_self_improvement,planning_recommendations,İş için C1 Türkçe öğrenme önerisi,completed,False,False,18
+1772788080089,ed03da93e95d403c,free,web,none,False,6,3,3,multi_turn,Turkish,coding_tech,decision_support,Google Pixel 9 Pro değerlendirmesi,completed,False,False,19
+1773861840074,965566536177ce79,weekly,android,image,True,8,4,4,multi_turn,Turkish,other,creation_generation,25m2 salon japandi tasarımı,completed,False,False,60
+1773877020067,6f08a281d18ae054,free,web,none,False,4,2,2,multi_turn,Turkish,relationships_social,advice_guidance,Arkadaş düğün daveti vermedi,completed,False,False,61
+1773912420115,f2c2c14b612e5f80,free,ios,none,False,10,5,5,deep_work,Turkish,coding_tech,information_seeking,Kuantum bilgisayarların yaygınlaşması,completed,False,False,62
+1773918600090,de9876178e1cc4d8,weekly,desktop,none,False,4,2,2,multi_turn,Turkish,travel_recommendations,planning_recommendations,İstanbul Kapadokya ulaşım önerisi,completed,False,False,63
+1773953220085,815a63cd76c67425,yearly,ios,none,False,4,2,2,multi_turn,Turkish,finance_legal,advice_guidance,Elektrikli araba ev şarjı maliyeti,completed,False,False,64
+1773957300120,7655f00317cffc34,free,desktop,none,False,6,3,3,multi_turn,Turkish,health_wellness,information_seeking,Hamilelikte kahve tüketimi,completed,False,False,65
+1773962100102,45ef8d474f4a9e19,weekly,desktop,spreadsheet,True,4,2,2,multi_turn,Turkish,document_analysis,analysis_extraction,Satış verilerini ay bazında gruplama,completed,False,False,66
+1773964440119,aa4df990f6d2d237,free,ios,none,False,4,2,2,multi_turn,Turkish,parenting_family,advice_guidance,Sessiz mahalle çocuk için uygun mu,completed,False,False,67
+1773969900066,10db1bdaeeecbc97,weekly,android,image,True,4,2,2,multi_turn,English,image_editing,editing_rewriting,Change background to sunset beach,completed,False,False,68
+1773973200002,aa4df990f6d2d237,free,desktop,none,False,2,1,1,simple,Turkish,chitchat,information_seeking,Random test input asdf,completed,False,False,69
+1774032780145,888773f782e610d5,free,desktop,image,True,6,3,3,multi_turn,Turkish,image_editing,creation_generation,Kıyafet katalog çekimi pozları oluşturma,completed,False,False,70
+1774055520105,888773f782e610d5,free,android,none,False,4,2,2,multi_turn,Turkish,health_wellness,advice_guidance,Her gün aspirin içmek zararlı mı,completed,False,False,71
+1774056540107,e895ea12576580ac,weekly,web,none,False,4,2,2,multi_turn,Turkish,mental_wellbeing,advice_guidance,Gece uykusuzlukla başa çıkma,completed,False,False,72
+1774061100126,3aa0c442ad221418,weekly,web,none,False,4,2,2,multi_turn,English,health_wellness,information_seeking,Intermittent fasting effectiveness evaluation,completed,False,False,73
+1774087920038,10db1bdaeeecbc97,weekly,web,image,True,2,1,1,simple,English,image_editing,editing_rewriting,Make image background transparent,completed,False,False,74
+1774089600118,ed03da93e95d403c,free,web,none,False,4,2,2,multi_turn,Turkish,parenting_family,advice_guidance,Eski kafalı babayla ilişki sınırları,completed,False,False,75
+1774126200088,cee90fe483a57631,yearly,ios,none,False,8,4,4,multi_turn,Turkish,relationships_social,advice_guidance,Bekar olarak düğüne gitmek,completed,False,False,76
+1774131960021,79d0111bda91d5c5,weekly,desktop,none,False,8,4,4,multi_turn,Turkish,learning_self_improvement,problem_solving,Türk kahvesi köpürtme sorunu çözümü,completed,False,False,77
+1774165380093,c940e66a200d9157,yearly,web,docx,True,6,3,3,multi_turn,English,career_workplace,editing_rewriting,Clean up cover letter grammar and tone,completed,False,False,78
+1774208700109,f912ef80169603a8,free,ios,none,False,4,2,2,multi_turn,English,other,planning_recommendations,Quick dinner idea with chicken and rice,completed,False,False,79
+1772801880070,1904fdce371494f3,free,android,image,True,6,3,3,multi_turn,English,image_editing,editing_rewriting,Brighten dark photo,completed,False,False,20
+1772878800064,72d830e4457666c1,yearly,web,none,False,10,5,5,deep_work,Turkish,career_workplace,advice_guidance,Career change at 40,completed,False,False,21
+1772967240108,7655f00317cffc34,free,desktop,pdf,True,8,4,4,multi_turn,Turkish,finance_legal,analysis_extraction,List contract obligations,completed,False,False,22
+1772999460053,27d233f8c0a9521f,yearly,android,none,False,4,2,2,multi_turn,English,career_workplace,advice_guidance,Decline meeting politely,completed,False,False,23
+1773001140060,177c18f4bbf13789,free,android,image,True,2,1,1,simple,Turkish,image_editing,creation_generation,Convert photo to anime,completed,False,False,24
+1773063240015,f9936e5274a0bc3a,yearly,android,image,True,6,3,3,multi_turn,Turkish,image_editing,editing_rewriting,Make photo oil painting,completed,False,False,25
+1773122160142,afcd49347c923a48,weekly,desktop,pdf,True,8,4,4,multi_turn,English,document_analysis,analysis_extraction,Summarize research paper,completed,False,False,26
+1773127380039,e50834bde19af762,free,ios,none,False,6,3,3,multi_turn,Turkish,finance_legal,advice_guidance,Tips for saving money,completed,False,False,27
+1773151680131,63a8c66078d4d27f,weekly,ios,none,False,10,5,5,deep_work,Turkish,coding_tech,learning_explanation,Explain transformer architecture,completed,False,False,28
+1773157080065,66bdc10cb5a60be8,free,web,pdf,True,4,2,2,multi_turn,Turkish,document_analysis,analysis_extraction,Summarize article into points,completed,False,False,29
+1773291300012,006cbf8f1bbdb49c,free,web,none,False,6,3,3,multi_turn,English,career_workplace,planning_recommendations,Plan overwhelmed week,completed,False,False,30
+1773323340143,f7b89d24bc97934a,weekly,desktop,none,False,4,2,2,multi_turn,Turkish,health_wellness,advice_guidance,Cat not eating,completed,False,False,31
+1773325980112,4f1cdac50d55c918,yearly,ios,none,False,2,1,1,simple,French,factual_qa,information_seeking,Explain photosynthesis briefly,completed,False,False,32
+1773357480040,f3e1a702bc031971,free,desktop,none,False,6,3,3,multi_turn,Turkish,parenting_family,advice_guidance,Child making no friends,completed,False,False,33
+1773361080073,45ef8d474f4a9e19,weekly,android,docx,True,6,3,3,multi_turn,Turkish,career_workplace,editing_rewriting,Review and fix resume,completed,False,False,34
+1773363360044,847afd53691789ee,yearly,ios,none,False,6,3,3,multi_turn,English,career_workplace,advice_guidance,Handle toxic undermining coworker,completed,False,False,35
+1773364320069,20a3a693aa8d40a1,weekly,ios,none,False,4,2,2,multi_turn,Turkish,health_wellness,advice_guidance,Migraine remedy recommendations,completed,False,False,36
+1773397800016,bd9bb4efc0e90aec,free,android,none,False,6,3,3,multi_turn,Turkish,career_workplace,decision_support,Choose between current or new job,completed,False,False,37
+1773400920022,a508c437225613e4,weekly,ios,none,False,6,3,3,multi_turn,English,learning_self_improvement,problem_solving,Figure out why plants die,completed,False,False,38
+1773419040061,c3f59df4aa38066d,free,desktop,none,False,2,1,1,simple,English,chitchat,information_seeking,Test chatbot connection,completed,False,False,39
+1774293540124,70c548dd6d515a0c,weekly,web,pdf,True,4,2,2,multi_turn,English,document_analysis,analysis_extraction,Analyze contract and find risks,completed,False,False,80
+1774296060075,df1fbd6ba5acf2a7,weekly,desktop,none,False,4,2,2,multi_turn,Turkish,finance_legal,advice_guidance,Check rental contract notice legality,completed,False,False,81
+1774300560014,37c35c9851c8f1b8,free,android,image,True,4,2,2,multi_turn,Turkish,image_editing,editing_rewriting,Edit product photo background,completed,False,False,82
+1774302300136,640e2b4c88a87f08,yearly,web,none,False,8,4,4,multi_turn,Turkish,career_workplace,planning_recommendations,Find a startup business idea,completed,False,False,83
+1774303500005,019fc2d0d87df5c5,yearly,ios,image,True,2,1,1,simple,Turkish,image_editing,editing_rewriting,Make image look more professional,partially_completed,True,True,84
+1774317060026,51a5a0fb3b9f2692,free,android,none,False,2,1,1,simple,Turkish,factual_qa,information_seeking,Check today's USD exchange rate,failed,True,False,85
+1774321500001,63a8c66078d4d27f,weekly,ios,image,True,8,4,4,multi_turn,Turkish,image_editing,creation_generation,Create minimalist coffee brand logo,completed,False,False,86
+1774324860043,be94c33ac6c410f5,yearly,web,none,False,4,2,2,multi_turn,English,learning_self_improvement,learning_explanation,Explain reinforcement learning simply,completed,False,False,87
+1774353780104,10693859dc0b8600,free,android,spreadsheet,True,5,3,2,multi_turn,Turkish,document_analysis,analysis_extraction,Clean spreadsheet and remove duplicates,partially_completed,True,True,88
+1774399500077,aa4df990f6d2d237,free,android,none,False,10,5,5,deep_work,Turkish,health_wellness,advice_guidance,Learn about vegan B12 deficiency,completed,False,False,89
+1774416660007,ea59e10b050ab3e2,free,web,none,False,6,3,3,multi_turn,English,other,advice_guidance,Stop cat knocking things down,completed,False,False,90
+1774420980068,c137a3f823d32fd8,free,ios,none,False,4,2,2,multi_turn,English,career_workplace,advice_guidance,Politely decline meeting with boss,completed,False,False,91
+1774424160079,a0bfaf7906a96dc6,free,desktop,none,False,6,3,3,multi_turn,Turkish,learning_self_improvement,planning_recommendations,Read more books each month,completed,False,False,92
+1774454220132,7bb4d865015c1862,weekly,android,none,False,6,3,3,multi_turn,Turkish,relationships_social,advice_guidance,Understand dating pattern repetition,completed,False,False,93
+1774474920028,79d0111bda91d5c5,weekly,ios,none,False,6,3,3,multi_turn,English,coding_tech,learning_explanation,Learn to code at age 38,completed,False,False,94
+1774486920095,3d7c72ae2b08ca79,weekly,ios,none,False,4,2,2,multi_turn,Turkish,health_wellness,advice_guidance,Find out why cat won't eat,completed,False,False,95
+1774511760091,79d0111bda91d5c5,weekly,web,none,False,4,2,2,multi_turn,Turkish,health_wellness,advice_guidance,Get suggestions for frequent migraines,completed,False,False,96
+1774515300049,6d69a7ca404b2fdc,weekly,desktop,none,False,2,1,1,simple,English,coding_tech,information_seeking,Understand if LLMs can reason,completed,False,False,97
+1774533180047,a508c437225613e4,weekly,android,none,False,4,2,2,multi_turn,English,career_workplace,advice_guidance,Stop saying yes and burning out,completed,False,False,98
+1774542780059,fb45fb8da374bc32,weekly,android,none,False,2,1,1,simple,Arabic,factual_qa,information_seeking,Find capital of Morocco,completed,False,False,99
+1773471060081,c42b1afd57e5ec41,free,ios,none,False,4,2,2,multi_turn,English,career_workplace,advice_guidance,Overcoming workplace burnout and guilt,completed,False,False,40
+1773477900138,7bb4d865015c1862,weekly,android,spreadsheet,True,6,3,3,multi_turn,Turkish,document_analysis,analysis_extraction,Analyze inventory stock and urgency,completed,False,False,41
+1773492300017,7bb4d865015c1862,weekly,desktop,none,False,6,3,3,multi_turn,Turkish,relationships_social,advice_guidance,Dealing with noisy new neighbors,completed,False,False,42
+1773493680080,ed03da93e95d403c,free,android,none,False,8,4,4,multi_turn,English,learning_self_improvement,planning_recommendations,Start learning rock/blues guitar,completed,False,False,43
+1773505920032,20a3a693aa8d40a1,weekly,web,image,True,6,3,3,multi_turn,English,image_editing,editing_rewriting,Crop image for Instagram,completed,False,False,44
+1773508800121,2cd0a8a1345f8feb,free,web,none,False,8,4,4,multi_turn,Turkish,parenting_family,advice_guidance,Determine age for child's phone,completed,False,False,45
+1773520320055,15fa4d44168ffea5,free,android,none,False,4,2,2,multi_turn,Russian,coding_tech,planning_recommendations,Recommend laptop for programming and ML,completed,False,False,46
+1773526920099,4988abb1ef875509,yearly,android,image,True,6,3,3,multi_turn,Turkish,image_editing,editing_rewriting,Remove person and shadow from photo,completed,False,False,47
+1773581580111,965566536177ce79,weekly,desktop,none,False,6,3,3,multi_turn,Turkish,mental_wellbeing,advice_guidance,Overcoming long-term exercise inactivity,completed,False,False,48
+1773606000125,55dbd7f479e600a2,yearly,desktop,image,True,4,2,2,multi_turn,English,image_editing,editing_rewriting,Sharpen portrait and formalize outfit,partially_completed,False,False,49
+1773650100087,1d478081f62180e2,free,web,none,False,4,2,2,multi_turn,Turkish,career_workplace,planning_recommendations,Prepare emergency presentation in 3 hours,completed,False,False,50
+1773666960020,847afd53691789ee,yearly,android,none,False,14,7,7,deep_work,Turkish,career_workplace,problem_solving,Complete thesis results in one week,completed,False,False,51
+1773674340035,d29a6fd0cbc7bef4,free,android,none,False,2,1,1,simple,Turkish,chitchat,information_seeking,Greet the chatbot,completed,False,False,52
+1773675240147,640e2b4c88a87f08,yearly,ios,pdf,True,10,5,5,deep_work,English,document_analysis,analysis_extraction,Review PRD and find missing sections,completed,False,False,53
+1773684240106,89a89b3de31dc205,weekly,desktop,none,False,4,2,2,multi_turn,English,factual_qa,information_seeking,Compare Sun size to Earth,completed,False,False,54
+1773701760140,4f1cdac50d55c918,yearly,ios,none,False,6,3,3,multi_turn,Turkish,learning_self_improvement,planning_recommendations,Improve English rapidly in 3 months,completed,False,False,55
+1773721680130,5c442ef0ef66311e,yearly,web,none,False,6,3,3,multi_turn,Turkish,travel_recommendations,planning_recommendations,Find budget-friendly holiday options,completed,False,False,56
+1773741420141,2fae5c801df277ea,weekly,web,image,True,4,2,2,multi_turn,Turkish,image_editing,editing_rewriting,Restore old torn photograph,completed,False,False,57
+1773802020004,f01274ab71f48a76,free,desktop,none,False,8,4,4,multi_turn,English,factual_qa,information_seeking,Understand how wildfires spread,completed,False,False,58
+1773842280129,32c42edd6b91f981,yearly,desktop,none,False,6,3,3,multi_turn,English,learning_self_improvement,advice_guidance,Improve public speaking skills,completed,False,False,59
+1775300340098,55dbd7f479e600a2,yearly,web,image,True,4,2,2,multi_turn,Spanish,image_editing,editing_rewriting,Change dress color,completed,False,False,120
+1775302440003,199c213d13a70fa7,free,android,image,True,8,4,4,multi_turn,Turkish,image_editing,editing_rewriting,Open closed eye in portrait,completed,False,False,121
+1775311380103,4988abb1ef875509,yearly,desktop,none,False,4,2,2,multi_turn,Turkish,travel_recommendations,planning_recommendations,Find best transport to Cappadocia,completed,False,False,122
+1775313840146,89a89b3de31dc205,weekly,web,none,False,10,5,5,deep_work,Turkish,career_workplace,advice_guidance,Career switch at 40,completed,False,False,123
+1775316060036,2cd0a8a1345f8feb,free,ios,none,False,8,4,4,multi_turn,Turkish,learning_self_improvement,advice_guidance,Overcome lack of discipline,completed,False,False,124
+1775323140133,ed03da93e95d403c,free,web,none,False,4,2,2,multi_turn,Turkish,finance_legal,information_seeking,Cost of EV home charging,completed,False,False,125
+1775395560117,15fa4d44168ffea5,free,web,image,True,10,5,5,deep_work,Turkish,image_editing,creation_generation,Create social media kit from logo,completed,False,False,126
+1775424180011,aa4df990f6d2d237,free,ios,none,False,6,3,3,multi_turn,Turkish,career_workplace,decision_support,Evaluate job offer vs current job,completed,False,False,127
+1775443320042,afcd49347c923a48,weekly,ios,image,True,4,2,2,multi_turn,Turkish,image_editing,editing_rewriting,Remove blemishes naturally,completed,False,False,128
+1775447280072,e50834bde19af762,free,web,none,False,2,1,1,simple,English,chitchat,information_seeking,Greeting,completed,False,False,129
+1775489640041,df1fbd6ba5acf2a7,weekly,ios,image,True,4,2,2,multi_turn,English,image_editing,editing_rewriting,Make LinkedIn profile photo,completed,False,False,130
+1775492820013,55dbd7f479e600a2,yearly,web,spreadsheet,True,6,3,3,multi_turn,English,document_analysis,analysis_extraction,Calculate MRR from customer list,completed,False,False,131
+1775512980057,16baae7775d88a35,weekly,ios,image,True,4,2,2,multi_turn,Turkish,image_editing,editing_rewriting,Change outfit to suit,completed,False,False,132
+1775515380116,ab570b3f76b3c956,weekly,ios,image,True,2,1,1,simple,Arabic,image_editing,editing_rewriting,Improve image quality,completed,False,False,133
+1775516400006,3dccd3f2f5a4caf1,yearly,ios,none,False,8,4,4,multi_turn,Turkish,mental_wellbeing,advice_guidance,Overcome meditation concentration struggles,completed,False,False,134
+1775519040018,c3fb228ca7bd15e1,free,web,none,False,14,7,7,deep_work,Turkish,career_workplace,advice_guidance,Find a startup co-founder,completed,False,False,135
+1775529780023,bd9bb4efc0e90aec,free,desktop,none,False,6,3,3,multi_turn,English,other,problem_solving,Fix dying plants,completed,False,False,136
+1775574780101,84990ceb4a0499f5,free,web,none,False,4,2,2,multi_turn,Turkish,parenting_family,advice_guidance,Evaluate quiet neighborhood for child,completed,False,False,137
+1775709240025,d2cb088a8152cc75,free,android,image,True,6,3,3,multi_turn,Turkish,image_editing,creation_generation,Design bohemian summer wedding invitation,completed,False,False,138
+1775922360030,cee90fe483a57631,yearly,web,none,False,6,3,3,multi_turn,Turkish,relationships_social,advice_guidance,Handle noisy neighbors,completed,False,False,139

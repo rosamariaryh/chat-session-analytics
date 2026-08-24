@@ -1,0 +1,17 @@
+[project]
+name = "chat-session-analytics"
+version = "0.1.0"
+description = "An application for analyzing chatbot conversations, both deterministic and AI-powered insights."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google>=3.0.0",
+    "google-genai>=2.19.0",
+    "openai>=3.3.1",
+    "pandas>=3.0.5",
+    "pydantic>=2.13.4",
+    "python-dotenv>=1.2.3",
+]
+
+[project.scripts]
+chat-session-analytics = "chat_session_analytics:main"
