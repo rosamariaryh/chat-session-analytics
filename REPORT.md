@@ -5,7 +5,7 @@ As for the deterministic metrics, we extract attachment types, tier level, and o
 Regarding the LLM output, we get insights into what users are talking about (topic, intent, goal...) as well as important information about the interaction with the assistant (outcome, follow up needed, language...).
 Please see mermaid chart below for a schema of the tool.
 
-```
+```mermaid
 flowchart TD
     A["Raw data<br/>JSONL"]
 
@@ -28,8 +28,8 @@ flowchart TD
     E --> F
     E --> G
 
-    classDef stage font-weight:bold,font-size:16px
-    class C,D stage
+    classDef highlighted fill:#f5f5f5,stroke:#333,stroke-width:2px
+    class C,D highlighted
 ```
 
 Next steps should focus on turning this prototype into a secure and scalable system.
