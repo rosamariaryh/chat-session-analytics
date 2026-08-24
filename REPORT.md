@@ -1,8 +1,11 @@
 This chat session analytics tool analyses both deterministic and AI-powered metrics.
-Currently, the configuration for the Gemini wrapper has been optimised for the free tier in order to stay within the rate limit.
-To optimise run time, multiple calls are parallelized and sessions are processed in batches.
-As for the deterministic metrics, we extract attachment types, tier level, and other relevant user information.
-Regarding the LLM output, we get insights into what users are talking about (topic, intent, goal...) as well as important information about the interaction with the assistant (outcome, follow up needed, language...).
+
+- Free tier LLM: the configuration for the Gemini wrapper has been optimised for the free tier in order to stay within the rate limit.
+- Optimization: multiple calls are parallelized and sessions are processed in batches for quicker run time.
+- Deterministic metrics: we extract attachment types, tier level, and other relevant user information.
+- LLM metrics: we get insights into what users are talking about (topic, intent, goal...) as well as important information about the interaction with the assistant (outcome, follow up needed, language...).
+- The processing time for this script is around 6-7 seconds for 150 sessions if no retries are needed for the LLM call.
+
 Please see mermaid chart below for a schema of the tool.
 
 ```mermaid
